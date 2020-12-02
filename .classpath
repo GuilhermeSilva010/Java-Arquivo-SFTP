@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jandi/Downloads/commons-net-3.7.2/commons-net-3.7.2.jar" sourcepath="C:/Users/jandi/Downloads/commons-net-3.7.2/commons-net-3.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Chilkat/chilkat-9.5.0-jdk8-x64/chilkat.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Chilkat/chilkat-9.5.0-jdk8-x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
